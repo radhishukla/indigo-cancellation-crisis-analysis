@@ -1,5 +1,10 @@
 # IndiGo Cancellation Crisis Analysis (2022–2023)
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue)
+![Power BI](https://img.shields.io/badge/Power%20BI-teal)
+![Analytics](https://img.shields.io/badge/Analytics-brightgreen)
+
+
 This project analyzes the recent flight cancellation crisis faced by IndiGo Airlines using
 PostgreSQL for data processing and Power BI for visualization.
 
@@ -26,7 +31,16 @@ PostgreSQL for data processing and Power BI for visualization.
 4. Merged revenue & city traffic datasets  
 5. Created Power BI crisis dashboard  
 
-## Insights
-- Significant passenger drops observed during peak disruption months
-- Load factor remained comparatively stable, indicating demand persistence
-- Route concentration showed Bengaluru–Delhi & Delhi–Mumbai as most impacted corridors
+## Key Insights
+
+- IndiGo passenger demand dropped heavily during mid-2022
+- Load factor remained above 70% even in downturns
+- Bengaluru–Delhi & Delhi–Mumbai were largest contributors to passenger drops
+- Post-crisis recovery was strong with 1.53x rebound momentum
+
+## How to Run
+1. Import `*.csv` into PostgreSQL
+2. Load SQL scripts from `/sql`
+3. Connect Power BI Desktop to PostgreSQL
+4. Open `powerbi/indigo_crisis_dashboard.pbix`
+

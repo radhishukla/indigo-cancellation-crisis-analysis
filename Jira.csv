@@ -1,0 +1,102 @@
+Summary,Issue key,Issue id,Issue Type,Status,Project key,Project name,Project type,Project lead,Project lead id,Project description,Priority,Resolution,Assignee,Assignee Id,Reporter,Reporter Id,Creator,Creator Id,Created,Updated,Last Viewed,Resolved,Due date,Votes,Description,Environment,Watchers,Watchers Id,Original estimate,Remaining Estimate,Time Spent,Work Ratio,Σ Original Estimate,Σ Remaining Estimate,Σ Time Spent,Security Level,Custom field (Development),Custom field (Issue color),Custom field (Rank),Custom field (Start date),Custom field (Team),Comment,Parent,Parent key,Parent summary,Status Category,Status Category Changed
+Lucidchart – Process Flow Diagram,KAN-22,10069,Subtask,Done,KAN,IndiGo Crisis Intelligence,software,Radhika Shukla,712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342,Your first project,Medium,Done,,,Radhika Shukla,712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342,Radhika Shukla,712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342,03/Jan/26 10:23 PM,03/Jan/26 10:56 PM,,03/Jan/26 10:56 PM,,0,,,Radhika Shukla,712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342,,,,,,,,,,,0|i0004f:,,,,10065,KAN-20,Documentation & Process Mapping (Confluence + Lucidchart),Done,03/Jan/26 10:56 PM
+Confluence – Project Documentation  ,KAN-21,10067,Subtask,Done,KAN,IndiGo Crisis Intelligence,software,Radhika Shukla,712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342,Your first project,Medium,Done,,,Radhika Shukla,712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342,Radhika Shukla,712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342,03/Jan/26 10:23 PM,03/Jan/26 10:56 PM,,03/Jan/26 10:56 PM,,0,,,Radhika Shukla,712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342,,,,,,,,,,,0|i00047:,,,,10065,KAN-20,Documentation & Process Mapping (Confluence + Lucidchart),Done,03/Jan/26 10:56 PM
+Documentation & Process Mapping (Confluence + Lucidchart),KAN-20,10065,Task,Done,KAN,IndiGo Crisis Intelligence,software,Radhika Shukla,712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342,Your first project,Medium,Done,Radhika Shukla,712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342,Radhika Shukla,712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342,Radhika Shukla,712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342,03/Jan/26 10:21 PM,03/Jan/26 10:58 PM,03/Jan/26 10:56 PM,03/Jan/26 10:53 PM,23/Jan/26 12:00 AM,0,"Document the complete project workflow covering data ingestion, transformation, analysis, and dashboard insights for the Indigo Cancellation Crisis case study.
+
+The documentation will act as the *single source of truth* for stakeholders and future maintenance.
+
+h3. Output
+
+* Published Confluence pages with structured documentation
+* Lucidchart diagram embedded inside Confluence",,Radhika Shukla,712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342,,,,,,,,,,,0|i0003z:,,,"03/Jan/26 10:56 PM;712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342;Project wrapped end-to-end: data ingestion (PostgreSQL), transformation & modeling (Power BI), KPI framework, crisis analysis dashboard, and complete documentation on Confluence. Ready for review.",,,,Done,03/Jan/26 10:53 PM
+Add a summary insight card explaining major disruption causes.,KAN-19,10064,Subtask,Done,KAN,IndiGo Crisis Intelligence,software,Radhika Shukla,712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342,Your first project,Medium,Done,,,Radhika Shukla,712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342,Radhika Shukla,712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342,03/Jan/26 10:19 PM,03/Jan/26 10:52 PM,,03/Jan/26 10:52 PM,,0,,,Radhika Shukla,712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342,,,,,,,,,,,0|i0003r:,,,,10054,KAN-14,Design Power BI Crisis Dashboard,Done,03/Jan/26 10:52 PM
+Highlight crisis period using conditional formatting.,KAN-18,10062,Subtask,Done,KAN,IndiGo Crisis Intelligence,software,Radhika Shukla,712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342,Your first project,Medium,Done,,,Radhika Shukla,712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342,Radhika Shukla,712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342,03/Jan/26 10:19 PM,03/Jan/26 10:52 PM,,03/Jan/26 10:52 PM,,0,,,Radhika Shukla,712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342,,,,,,,,,,,0|i0003j:,,,,10054,KAN-14,Design Power BI Crisis Dashboard,Done,03/Jan/26 10:52 PM
+Add visuals comparing:  Aircraft Hours vs Passenger Numbers  Load Factor vs Cancellation Rate,KAN-17,10060,Subtask,Done,KAN,IndiGo Crisis Intelligence,software,Radhika Shukla,712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342,Your first project,Medium,Done,,,Radhika Shukla,712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342,Radhika Shukla,712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342,03/Jan/26 10:19 PM,03/Jan/26 10:52 PM,,03/Jan/26 10:52 PM,,0,,,Radhika Shukla,712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342,,,,,,,,,,,0|i0003b:,,,,10054,KAN-14,Design Power BI Crisis Dashboard,Done,03/Jan/26 10:52 PM
+Identify months with abnormal drops in performance.,KAN-16,10058,Subtask,Done,KAN,IndiGo Crisis Intelligence,software,Radhika Shukla,712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342,Your first project,Medium,Done,,,Radhika Shukla,712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342,Radhika Shukla,712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342,03/Jan/26 10:19 PM,03/Jan/26 10:52 PM,,03/Jan/26 10:52 PM,,0,,,Radhika Shukla,712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342,,,,,,,,,,,0|i00033:,,,,10054,KAN-14,Design Power BI Crisis Dashboard,Done,03/Jan/26 10:52 PM
+Create trend visuals for:  Cancellation Rate  Passenger Load Factor  Aircraft Utilization,KAN-15,10056,Subtask,Done,KAN,IndiGo Crisis Intelligence,software,Radhika Shukla,712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342,Your first project,Medium,Done,,,Radhika Shukla,712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342,Radhika Shukla,712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342,03/Jan/26 10:19 PM,03/Jan/26 10:52 PM,,03/Jan/26 10:52 PM,,0,,,Radhika Shukla,712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342,,,,,,,,,,,0|i0002v:,,,,10054,KAN-14,Design Power BI Crisis Dashboard,Done,03/Jan/26 10:52 PM
+Design Power BI Crisis Dashboard,KAN-14,10054,Task,Done,KAN,IndiGo Crisis Intelligence,software,Radhika Shukla,712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342,Your first project,Medium,Done,Radhika Shukla,712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342,Radhika Shukla,712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342,Radhika Shukla,712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342,03/Jan/26 10:18 PM,03/Jan/26 10:58 PM,03/Jan/26 10:56 PM,03/Jan/26 10:52 PM,20/Jan/26 12:00 AM,0,"Design an interactive Power BI dashboard to visualize IndiGo’s cancellation crisis across passenger trends, load factor behavior, revenue efficiency, and route concentration.
+
+*Description*
+
+* Connected PostgreSQL views to Power BI
+* Built KPI cards:
+** Sensitivity Index
+** Recovery Strength
+** Crisis Severity
+** Operational Stability
+* Designed visuals:
+** Load Factor vs Passenger Drop
+** Revenue per Passenger vs Load Factor
+** Route Concentration matrix
+* Fixed duplicate month issue using Power BI modeling
+
+*Acceptance Criteria*
+
+* Dashboard reflects accurate monthly KPIs
+* All metrics remain stable without inflated values
+* Route concentration table displays top 5 routes correctly",,Radhika Shukla,712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342,,,,,,,,,,,0|i0002n:,,,"03/Jan/26 10:55 PM;712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342;Project wrapped end-to-end: data ingestion (PostgreSQL), transformation & modeling (Power BI), KPI framework, crisis analysis dashboard, and complete documentation on Confluence. Ready for review.",,,,Done,03/Jan/26 10:52 PM
+Verify final output,KAN-12,10052,Subtask,Done,KAN,IndiGo Crisis Intelligence,software,Radhika Shukla,712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342,Your first project,Medium,Done,,,Radhika Shukla,712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342,Radhika Shukla,712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342,03/Jan/26 10:12 PM,03/Jan/26 10:55 PM,,03/Jan/26 10:55 PM,,0,,,Radhika Shukla,712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342,,,,,,,,,,,0|i0002f:,,,,10001,KAN-2,Create Passenger Summary Tables (PostgreSQL → Power BI),Done,03/Jan/26 10:55 PM
+Create vw_indigo_passenger_summary SQL view,KAN-11,10050,Subtask,Done,KAN,IndiGo Crisis Intelligence,software,Radhika Shukla,712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342,Your first project,Medium,Done,,,Radhika Shukla,712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342,Radhika Shukla,712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342,03/Jan/26 10:12 PM,03/Jan/26 10:55 PM,,03/Jan/26 10:55 PM,,0,,,Radhika Shukla,712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342,,,,,,,,,,,0|i00027:,,,,10001,KAN-2,Create Passenger Summary Tables (PostgreSQL → Power BI),Done,03/Jan/26 10:55 PM
+Add passenger growth percentage column,KAN-10,10048,Subtask,Done,KAN,IndiGo Crisis Intelligence,software,Radhika Shukla,712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342,Your first project,Medium,Done,,,Radhika Shukla,712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342,Radhika Shukla,712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342,03/Jan/26 10:12 PM,03/Jan/26 10:55 PM,,03/Jan/26 10:55 PM,,0,,,Radhika Shukla,712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342,,,,,,,,,,,0|i0001z:,,,,10001,KAN-2,Create Passenger Summary Tables (PostgreSQL → Power BI),Done,03/Jan/26 10:55 PM
+Validate no duplicate months exist,KAN-9,10046,Subtask,Done,KAN,IndiGo Crisis Intelligence,software,Radhika Shukla,712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342,Your first project,Medium,Done,,,Radhika Shukla,712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342,Radhika Shukla,712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342,03/Jan/26 10:11 PM,03/Jan/26 10:55 PM,,03/Jan/26 10:55 PM,,0,,,Radhika Shukla,712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342,,,,,,,,,,,0|i0001r:,,,,10001,KAN-2,Create Passenger Summary Tables (PostgreSQL → Power BI),Done,03/Jan/26 10:55 PM
+Build indigo_monthly_base summary table using GROUP BY,KAN-8,10044,Subtask,Done,KAN,IndiGo Crisis Intelligence,software,Radhika Shukla,712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342,Your first project,Medium,Done,,,Radhika Shukla,712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342,Radhika Shukla,712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342,03/Jan/26 10:11 PM,03/Jan/26 10:14 PM,,03/Jan/26 10:14 PM,,0,,,Radhika Shukla,712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342,,,,,,,,,,,0|i0001j:,,,,10001,KAN-2,Create Passenger Summary Tables (PostgreSQL → Power BI),Done,03/Jan/26 10:14 PM
+Prepare Power BI Connection Tables,KAN-7,10010,Subtask,Done,KAN,IndiGo Crisis Intelligence,software,Radhika Shukla,712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342,Your first project,Medium,Done,,,Radhika Shukla,712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342,Radhika Shukla,712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342,03/Jan/26 2:30 PM,03/Jan/26 2:32 PM,03/Jan/26 2:30 PM,03/Jan/26 2:32 PM,,0,"* Create final SQL views for:
+** total_passengers
+** load_factor
+** crisis_metrics
+* Optimize schema for fast Power BI refresh",,Radhika Shukla,712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342,,,,,,,,,,,0|i0001b:,,,,10000,KAN-1,Build ETL Pipeline for IndiGo Crisis Dataset using PostgreSQL,Done,03/Jan/26 2:32 PM
+Data Validation & QA Checks,KAN-6,10008,Subtask,Done,KAN,IndiGo Crisis Intelligence,software,Radhika Shukla,712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342,Your first project,Medium,Done,,,Radhika Shukla,712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342,Radhika Shukla,712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342,03/Jan/26 2:29 PM,03/Jan/26 2:32 PM,03/Jan/26 2:29 PM,03/Jan/26 2:32 PM,,0,"* Check NULLs and duplicates
+* Reconcile monthly passenger totals
+* Validate against original CSV row counts",,Radhika Shukla,712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342,,,,,,,,,,,0|i00013:,,,,10000,KAN-1,Build ETL Pipeline for IndiGo Crisis Dataset using PostgreSQL,Done,03/Jan/26 2:32 PM
+Create Passenger Summary Tables,KAN-5,10006,Subtask,Done,KAN,IndiGo Crisis Intelligence,software,Radhika Shukla,712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342,Your first project,Medium,Done,,,Radhika Shukla,712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342,Radhika Shukla,712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342,03/Jan/26 2:28 PM,03/Jan/26 2:32 PM,03/Jan/26 2:28 PM,03/Jan/26 2:32 PM,,0,"* Create monthly aggregation tables
+* Validate passenger totals
+* Generate clean metrics for Power BI KPIs",,Radhika Shukla,712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342,,,,,,,,,,,0|i0000v:,,,,10000,KAN-1,Build ETL Pipeline for IndiGo Crisis Dataset using PostgreSQL,Done,03/Jan/26 2:32 PM
+Import & Clean Carrier Dataset,KAN-4,10004,Subtask,Done,KAN,IndiGo Crisis Intelligence,software,Radhika Shukla,712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342,Your first project,Medium,Done,,,Radhika Shukla,712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342,Radhika Shukla,712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342,03/Jan/26 2:25 PM,03/Jan/26 2:32 PM,03/Jan/26 2:25 PM,03/Jan/26 2:32 PM,,0,"* Load raw carrier.csv using COPY / \copy
+* Fix delimiter and encoding errors
+* Standardize column names
+* Remove invalid and duplicate records",,Radhika Shukla,712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342,,,,,,,,,,,0|i0000n:,,,,10000,KAN-1,Build ETL Pipeline for IndiGo Crisis Dataset using PostgreSQL,Done,03/Jan/26 2:32 PM
+Inspect column structure of indigo table,KAN-3,10002,Subtask,Done,KAN,IndiGo Crisis Intelligence,software,Radhika Shukla,712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342,Your first project,,,,,Radhika Shukla,712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342,Radhika Shukla,712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342,03/Jan/26 2:19 PM,03/Jan/26 10:11 PM,03/Jan/26 10:11 PM,,,0,,,Radhika Shukla,712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342,,,,,,,,,,,0|i0000f:,,,,10001,KAN-2,Create Passenger Summary Tables (PostgreSQL → Power BI),Done,03/Jan/26 2:19 PM
+Create Passenger Summary Tables (PostgreSQL → Power BI),KAN-2,10001,Task,Done,KAN,IndiGo Crisis Intelligence,software,Radhika Shukla,712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342,Your first project,High,Done,Radhika Shukla,712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342,Radhika Shukla,712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342,Radhika Shukla,712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342,03/Jan/26 2:19 PM,03/Jan/26 10:55 PM,03/Jan/26 10:55 PM,03/Jan/26 10:52 PM,17/Jan/26 12:00 AM,0,"This task focuses on building clean, analysis-ready monthly passenger summary tables for the IndiGo Crisis Intelligence dashboard.
+
+Raw IndiGo data contains duplicate {{monthdate}} values and no proper date dimension.
+The goal is to transform this data into a structured monthly table with passenger KPIs that can be directly consumed in Power BI.
+
+h3. Objectives
+
+* Remove duplicate monthdate issues by aggregating data at monthly level
+* Create a clean base table with:
+** Total Passengers
+** Domestic Passengers
+** International Passengers
+* Add a monthly passenger growth metric
+* Create a Power BI-ready SQL View
+
+h3. Acceptance Criteria
+
+* Each month appears *only once* in the summary table
+* Growth % is calculated correctly month-over-month
+* View loads correctly in Power BI without relationship errors
+* KPIs update dynamically when new data is added
+
+h3. Output Tables / Views
+
+* {{indigo_monthly_base}}
+* {{vw_indigo_passenger_summary}}",,Radhika Shukla,712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342,,,,,,,,,,,0|i00007:,,,"03/Jan/26 10:55 PM;712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342;Project wrapped end-to-end: data ingestion (PostgreSQL), transformation & modeling (Power BI), KPI framework, crisis analysis dashboard, and complete documentation on Confluence. Ready for review.",,,,Done,03/Jan/26 10:52 PM
+Build ETL Pipeline for IndiGo Crisis Dataset using PostgreSQL,KAN-1,10000,Task,Done,KAN,IndiGo Crisis Intelligence,software,Radhika Shukla,712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342,Your first project,High,Done,Radhika Shukla,712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342,Radhika Shukla,712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342,Radhika Shukla,712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342,03/Jan/26 2:19 PM,03/Jan/26 10:55 PM,03/Jan/26 10:55 PM,03/Jan/26 2:33 PM,10/Jan/26 12:00 AM,0,"Objective:
+Create a structured ETL pipeline to clean, transform, and prepare aviation crisis datasets for dashboard analysis.
+
+Tools:
+PostgreSQL, pgAdmin, CSV Aviation Datasets
+
+Work Included:
+
+* Import raw CSV datasets into PostgreSQL
+* Fix delimiter, datatype, and NULL issues
+* Create normalized tables for passengers, routes, aircraft operations
+* Generate monthly aggregated tables for Power BI connection
+* Validate record counts and metric accuracy
+
+Deliverables:
+
+* Clean PostgreSQL database ready for BI reporting
+* Verified summary tables for Power BI KPIs",,Radhika Shukla,712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342,,,,,,,,,,,0|hzzzzz:,,,"03/Jan/26 10:55 PM;712020:03c7d5cd-87e6-4a3e-aef6-5f02cf58f342;Project wrapped end-to-end: data ingestion (PostgreSQL), transformation & modeling (Power BI), KPI framework, crisis analysis dashboard, and complete documentation on Confluence. Ready for review.",,,,Done,03/Jan/26 2:33 PM
